@@ -1,6 +1,10 @@
-body{
-    background-color:#ffdd03;
 
+html {
+  font-size: 18px;
+}
+
+body {background-color:#ffdd03;
+  font-family: Arial, sans-serif;
 }
 .cup{
     display:flex;
